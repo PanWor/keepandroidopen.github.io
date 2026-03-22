@@ -60,8 +60,6 @@ Rejestracja ta będzie obejmować:
 
 Cały ten proces jest realizowany przez Usługi Google Play, a nie przez system operacyjny Android. Oznacza to, że Google może go zmodyfikować, ograniczyć lub usunąć w dowolnym momencie bez potrzeby aktualizacji systemu i bez zgody użytkownika. Zaawansowany proces instalacji wciąż nie pojawił się w żadnej wersji beta Androida, wersji deweloperskiej ani wydaniu typu „canary”. Na dzień publikacji tej aktualizacji istnieje on jedynie jako wpis na blogu i makiety interfejsu. Od społeczności oczekuje się, że zaakceptuje zapowiedzi produktu jako funkcjonalne zabezpieczenie na pięć miesięcy przed wejściem w życie nowych wymogów.
 
-Until Google provides a shipping implementation that can be independently verified, our position remains unchanged: **all** apps from non-registered developers **will be blocked** once their lockdown goes into effect in September 2026.
-
 Dopóki Google nie udostępni gotowej implementacji, którą będzie można niezależnie zweryfikować, nasze stanowisko pozostaje niezmienne: **wszystkie** aplikacje od niezarejestrowanych deweloperów **zostaną zablokowane** wraz z wejściem w życie zapowiadanej blokady we wrześniu 2026 roku.
 
 </div>
